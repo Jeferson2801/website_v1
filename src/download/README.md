@@ -26,7 +26,7 @@ The latest stable version of **Aurora Store** was uploaded <ReleaseDate store />
 <AuroraChangelogs store />
 
 ::: c-tip
-Older versions of **Aurora Store** (Stable & Nightly) can be found [here](https://files.auroraoss.com/AuroraStore/).
+Older versions of **Aurora Store** (Stable & Nightly) 5.4.3 [here](https://files.auroraoss.com/AuroraStore/).
 :::
 
 ## <img class="headerLogo" :src="$withBase('/icons/aurora_droid.webp')"> [Aurora Droid](/download/AuroraDroid/)
